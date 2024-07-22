@@ -1,0 +1,47 @@
+body {
+    background-color: #FAF7F4;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header_banner {
+    height: 3em;
+    padding: 3.5em;
+    font-size: 1.5em;
+    background-image: url("../img/banner_1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header_banner h1 {
+    margin: 0px;
+    font-weight: 400;
+    color: #FAF7F4;
+}
+
+.header_banner p {
+    color: #FAF7F4;
+}
+
+.houses {
+    width: 80%;
+    margin: auto;
+}
+
+.houses td {
+    width: 50%;
+    padding: 2em;
+}
+
+.houses img {
+    width: 100%;
+    border: solid 1px #ddd;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    font-weight: 800;
+    background-color: #9C2D41;
+    color: #FAF7F4;
+    text-align: center;
+}

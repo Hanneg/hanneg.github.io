@@ -1,0 +1,16 @@
+.bg-green {
+    background-color: #28A745;
+}
+
+.text-green {
+    color: #28A745;
+    font-weight: bold;
+}
+
+.container-name {
+    text-align: end;
+}
+
+.container-name p{
+    display: inline-block;
+}
