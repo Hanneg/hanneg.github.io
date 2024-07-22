@@ -123,11 +123,11 @@ hr {
 
 footer {
     display: block;
-    position: static;
+    position: absolute;
     bottom: 0;
     background-color: black;
     color: #fff;
     padding: 50px 0;
     text-align: center;
-
+    height: auto;
 }
